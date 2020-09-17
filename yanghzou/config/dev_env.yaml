@@ -1,0 +1,14 @@
+database:
+  host: 114.230.94.36
+  port: 3306
+  user: root
+  password: gk1z9Ef@Y1
+  database: ring_video
+  read_timeout: 300
+  write_timeout: 300
+redis:
+  host: 114.230.94.36
+  port: 6379
+  auth: na@e5qerD1
+  read_timeout: 300
+  write_timeout: 300

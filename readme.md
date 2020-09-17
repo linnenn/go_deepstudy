@@ -1,12 +1,9 @@
-## About this project
+## 项目说明
+golang语言深度学习的，做的练习记录，目前比较乱，有时间会分章节整理
+## 贡献代码
 
-This project is the comparation runing effections of go,python,php
-If you want to known the difference ! Just run it! Then get it!
-
-## Contributing
-
-Thank you for considering contributing to the this project!
+目前纯粹自己联系，规划好章节之后可以共享代码
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+所有内容遵循 [MIT](https://opensource.org/licenses/MIT) 协议
